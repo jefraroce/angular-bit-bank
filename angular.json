@@ -146,5 +146,8 @@
       }
     }
   },
-  "defaultProject": "bit-bank"
+  "defaultProject": "bit-bank",
+  "cli": {
+    "analytics": false
+  }
 }
